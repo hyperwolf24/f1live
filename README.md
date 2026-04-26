@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# f1live
-This is a live visualization of F1 races. With all the details such as driver position, car status, lap timings, car telemetry, radio communications, and more.
-=======
 <h1>F1 Replay Timing</h1>
 
 
@@ -46,7 +42,7 @@ Requires [Docker](https://docs.docker.com/get-docker/) and Docker Compose.
 
 ```bash
 git clone <repo-url>
-cd F1timing
+cd f1live
 ```
 
 **2. Configure:**
